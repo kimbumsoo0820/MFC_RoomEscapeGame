@@ -1,0 +1,52 @@
+﻿  C_Ghoast.cpp
+c:\users\kbs\desktop\mfcapplication3\mfcapplication3\resource.h(81): warning C4005: 'IDCANCEL': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: 'IDCANCEL'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  TheEnd4.cpp
+  TheEnd3.cpp
+  TheEnd2.cpp
+  TheEnd.cpp
+  Room3_C_info.cpp
+  Room3_C_Home.cpp
+  Room3_C6_h3.cpp
+  Room3_C6_Check2.cpp
+  Room3_C6_Check1.cpp
+  Room3_C6.cpp
+  Room3_C5_h2.cpp
+  Room3_C5.cpp
+  Room3_C4_h1.cpp
+  Room3_C4.cpp
+  Room3_C3.cpp
+  Room3_C2.cpp
+  Room3_C1.cpp
+  Room2_C6_h3.cpp
+  Room2_C6.cpp
+  Room2_C5_h2.cpp
+  Room2_C5.cpp
+  Room2_C4_h1.cpp
+  Room2_C4.cpp
+  Room2_C3.cpp
+  Room2_C2.cpp
+  Room2_C1.cpp
+  Room1_C6_h3.cpp
+  Room1_C6.cpp
+  Room1_C5_h2.cpp
+  Room1_C5.cpp
+  Room1_C4_h1.cpp
+  Room1_C4.cpp
+  Room1_C3.cpp
+  Room1_C2.cpp
+  Room1_C1.cpp
+  Nop.cpp
+  Main_start.cpp
+  M_music.cpp
+  M_Nop2.cpp
+  MFCApplication3Dlg.cpp
+  MFCApplication3.cpp
+  FINALEND.cpp
+  Explain.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(1365): warning RC4005: 'IDCANCEL' : redefinition
+  
+  MFCApplication3.vcxproj -> C:\Users\kbs\Desktop\MFCApplication3\Debug\MFCApplication3.exe
+  MFCApplication3.vcxproj -> C:\Users\kbs\Desktop\MFCApplication3\Debug\MFCApplication3.pdb (Partial PDB)
